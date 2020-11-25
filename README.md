@@ -1,6 +1,6 @@
 # radio
 
-Currently streaming: laurenfranklin.net/archive/radio 
+Currently streaming: https://laurenfranklin.net/archive/radio 
 
 https://icecast.org/
 
